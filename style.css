@@ -1,0 +1,31 @@
+#container {
+  border: 5px solid gold;
+  width: 640px;
+  margin: auto;
+    border-radius: 10px;
+
+}
+#display {
+  border: 4px solid green;
+  width: 620px;
+  margin: auto;
+  height: 50px;
+  border-radius: 10px;
+  text-align: right;
+  font-size: 25px;
+  margin-top: 20px;
+}
+#key{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 20px;
+}
+.keys{
+    border: 2px solid green;
+  width: 130px;
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+  /*height: 50px;*/
+  border-radius: 10px;
+}
